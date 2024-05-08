@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net6.0;net7.0;net8.0</TargetFrameworks>
+    <LangVersion>12.0</LangVersion>
+    <AssemblyName>Skyware.ActiveMq.Parser</AssemblyName>
+    <RootNamespace>Skyware.ActiveMq</RootNamespace>
+    <Authors>Mikhail Kalatchev</Authors>
+    <Company>SKYWARE Group</Company>
+    <Description>Active MQ URI Parser</Description>
+    <Copyright>Copyright (C) 2024, SKYWARE Group</Copyright>
+    <Version>0.0.1</Version>
+    <Title>Active MQ URI Parser</Title>
+  </PropertyGroup>
+
+</Project>
